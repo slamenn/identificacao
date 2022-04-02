@@ -1,18 +1,20 @@
 html {
     font-size: 50px;
     font-family: "BIZ UDMincho", sans-serif;
-    color: rgb(167, 95, 205);
+}
+html {
     background-color: #210032;
 }
 
 body {
     width: 720px;
-    margin: 0 auto;
-    padding: 0 20px 20px 20px;
+    margin: 10 auto;
+    padding: 10 20px 20px 20px;
 }
 
 h1 {
-    font-size: 50px;
+    color: rgb(167, 95, 205);
+    font-size: 75px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
