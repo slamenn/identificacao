@@ -16,3 +16,6 @@ if(!localStorage.getItem('identificacao')) {
         alert('Identificação negada, por favor, retire-se', + identificacao);
       }
   }
+
+  identificador.onclick = function() {defineIdentificacao();
+}
