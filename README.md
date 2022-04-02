@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 
     <!--incluir caracteres da maioria dos idiomas escritos-->
