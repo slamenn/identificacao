@@ -16,6 +16,10 @@ h1 {
     color: rgb(167, 95, 205);
     font-size: 75px;
     text-align: center;
-    margin: 0;
-    padding: 20px 0;
+}
+
+button {
+    color: rgb(167, 95, 205);
+    font-size: 50px;
+    text-align: center;
 }
