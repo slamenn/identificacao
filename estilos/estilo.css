@@ -3,7 +3,7 @@ html {
     font-family: "BIZ UDMincho", sans-serif;
 }
 html {
-    background-color: rgb(12, 0, 19);
+    background-color: rgb(6, 0, 10);
 }
 
 body {
@@ -20,6 +20,6 @@ h1 {
 
 h3 {
     color: rgb(167, 95, 205);
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
